@@ -4,7 +4,12 @@ Trabajos de simulación, problemas y prácticas de laboratorio de la materia Ins
  Exhibo mis respuestas públicas con el fin de ser de utilidad para guía posterior de parte de otro alumno, puesto que ya con la inteligencia artificial no hay necesidad de ocultar las respuestas, pero no puede ser utilizado  como copia directa y descarada, menos sin atribución a mi persona (Licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)).
 
  ## Contenidos
- 
+- [Instrumentación Nuclear](#instrumentación-nuclear)
+  - [Contenidos](#contenidos)
+  - [Generalidades](#generalidades)
+  - [Uso](#uso)
+  - [Agradecimientos](#agradecimientos)
+
 
  ## Generalidades
  Código generado en *Python* en compilación de ayuda de IAs, compañeros de trabajo y correcciones del profesor. La versión principal (`main`) contiene la corrección de mi propia autoría con ayuda de la IA, pero sin otro autor humano, aplicando esto se eliminaron los talleres y guías.
